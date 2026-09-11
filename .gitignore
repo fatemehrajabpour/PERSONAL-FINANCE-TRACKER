@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Python practice files
+04_Python_TopLearn/
+18-range.py
+19-while.py
+codition.py
+comparison operator.py
+convert.py
+debugging.py
+dictionary.py
+filter.py
+function.py
+list.py
+logical operator.py
+loop.py
+python.py
+set.py
+truthiness & falsiness.py
+tuple.py
